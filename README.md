@@ -18,5 +18,5 @@ elevenlabs - Para criar a voz.
 D-ID - Para criar o vídeo.
 
 ## 🚀 Resultados
-(https://studio.d-id.com/share?id=304b8b8bc6ce026b841cc119182751b3&utm_source=copy)
+https://studio.d-id.com/share?id=304b8b8bc6ce026b841cc119182751b3&utm_source=copy
 ```
